@@ -2,7 +2,7 @@
 category: "language"
 name: Finnish
 level: First language
-value: 100%
+value: 90%
 ---
 
-Just don't ask me to write grammatically perfect text
+Just don't ask me to write grammatically perfect text.

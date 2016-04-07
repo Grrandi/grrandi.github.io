@@ -5,4 +5,4 @@ level: Full working profiency
 value: 80%
 ---
 
-I sometimes have trouble pronouncing squirrel
+Extremely good spoken and written language skills.

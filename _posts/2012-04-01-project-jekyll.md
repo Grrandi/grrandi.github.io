@@ -1,8 +1,8 @@
 ---
 category: "project"
-name: Online CV 5
+name: Jekyll CV template
 repo: github
 repo_url: https://github.com/Grrandi/stunning-pancake
 ---
 
-An online CV template made with Jekyll
+A CV template made with Jekyll
