@@ -1,7 +1,6 @@
 Jekyll template for a simple cover page / unofficial cv 
 =====================================================
 
-[Demo](http://grrandi.github.io/stunning-pancake/)
 
 ## Usage
 
