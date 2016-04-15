@@ -1,8 +1,6 @@
 ---
 category: "project"
-name: Jekyll CV template
-repo: github
-repo_url: https://github.com/Grrandi/stunning-pancake
+name: Graph tool for visualizing stock indexes
 ---
 
-A CV template made with Jekyll
+C3js based Wordpress plugin for visualizing stock indexes such as S&P500 and others.
