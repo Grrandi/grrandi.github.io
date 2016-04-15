@@ -7,25 +7,26 @@
 
 # Site settings
 name: Matti Pohjanvirta # Your name.
-email: # Your email
+email: matti.pohjanvirta@gmail.com # Your email
 
 # Use consideration when using these, publicly available contact information
 # and place of residence is not something you might want to have.
+tagline: Personal cover page for this test user. # Appears on the sidebar bellow your name.
 address: # Your address
 phone: # Your phone number
 dob: # Your date of birth
 image: avatar.JPG
 title: Developer # Your title eg. Writer, programmer, welder, etc.
 github_username:  Grrandi # Your github username
-linkedin_url: # Your linkedin public url
+linkedin_url: https://fi.linkedin.com/in/matti-pohjanvirta-1a122565 # Your linkedin public url
 twitter_handle: # Your twitter handle
 
 abstract: > # Here you should write a brief summary about yourself.
    I'm an intermediate programmer interested in many different technologies. I'm just starting my professional career
    and I have lots and lots to learn, but I'm eager to get there. Recently I've been working as a system designer for
    the University of Jyväskylä focusing mainly on web development.
-description: > # Description for the site
-  Curriculum Vitae
+description: > # Description for site meta, used by search engines.
+  Personal cover page for this test user.
 theme: theme-ocean-orange # Color theme for the site.
 
 # Localization
