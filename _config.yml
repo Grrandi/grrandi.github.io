@@ -11,7 +11,7 @@ email: matti.pohjanvirta@gmail.com # Your email
 
 # Use consideration when using these, publicly available contact information
 # and place of residence is not something you might want to have.
-tagline: Personal cover page for this test user. # Appears on the sidebar bellow your name.
+tagline: Curriculum Vitae. # Appears on the sidebar bellow your name.
 address: # Your address
 phone: # Your phone number
 dob: # Your date of birth
@@ -26,7 +26,7 @@ abstract: > # Here you should write a brief summary about yourself.
    and I have lots and lots to learn, but I'm eager to get there. Recently I've been working as a system designer for
    the University of Jyväskylä focusing mainly on web development.
 description: > # Description for site meta, used by search engines.
-  Personal cover page for this test user.
+  CV Curriculum Vitae Matti Pohjanvirta
 theme: theme-ocean-orange # Color theme for the site.
 
 # Localization
